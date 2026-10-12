@@ -1,0 +1,6 @@
+{
+  "name": "Tonalia Pro",
+  "description": "Suite profesional de análisis acústico en tiempo real, afinador de microtonos, detección de tonalidad, lector de partituras ABC y etimología musical.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
